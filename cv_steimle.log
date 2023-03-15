@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.8.28) (format=lualatex 2022.10.3)  15 MAR 2023 12:37
+This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.8.28) (format=lualatex 2022.10.3)  15 MAR 2023 12:48
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/home/thomas/Documents/Programmes/github/CV/cv_steimle.tex
@@ -845,11 +845,11 @@ Package rerunfilecheck Info: File `cv_steimle.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  19968 strings out of 477370
- 125007,953878 words of node,token memory allocated
- 1039 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 24 glue, 3 kern, 1 penalty, 2 glyph, 188 attribute,
- 58 glue_spec, 28 attribute_list, 2 write nodes
-   avail lists: 2:3924,3:613,4:97,5:682,6:139,7:11943,8:56,9:1008,10:15,11:78
+ 125009,953878 words of node,token memory allocated
+ 947 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 20 glue, 3 kern, 1 penalty, 2 glyph, 160 attribute,
+ 58 glue_spec, 24 attribute_list, 2 write nodes
+   avail lists: 2:3956,3:613,4:97,5:678,6:139,7:11914,8:56,9:1008,10:15,11:78
  40392 multiletter control sequences out of 65536+600000
  45 fonts using 6882303 bytes
  72i,12n,87p,1093b,1119s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -862,7 +862,7 @@ opentype/public/lm/lmroman10-bold.otf></home/thomas/.miktex/texmfs/install/fonts
 nts/opentype/public/lm/lmroman12-regular.otf></home/thomas/.miktex/texmfs/instal
 l/fonts/opentype/public/lm/lmroman10-regular.otf></home/thomas/.miktex/texmfs/in
 stall/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on cv_steimle.pdf (2 pages, 58725 bytes).
+Output written on cv_steimle.pdf (2 pages, 58675 bytes).
 
 PDF statistics: 124 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 131072)
