@@ -1,5 +1,5 @@
-PWD /home/thomas/Documents/Programmes/github/CV
-INPUT /home/thomas/Documents/Programmes/github/CV/cv_steimle.tex
+PWD /home/thomas/Documents/GitHub/CV
+INPUT /home/thomas/Documents/GitHub/CV/cv_steimle.tex
 OUTPUT cv_steimle.log
 OUTPUT cv_steimle.log
 INPUT /home/thomas/.miktex/texmfs/install/tex/latex/latexconfig/lualatexquotejobname.lua
@@ -609,3 +609,5 @@ INPUT /home/thomas/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map
 INPUT ./cv_steimle.aux
 INPUT ./cv_steimle.aux
 INPUT ./cv_steimle.out
+INPUT /home/thomas/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /home/thomas/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
