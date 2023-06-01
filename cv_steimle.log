@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.8.28) (format=lualatex 2022.10.3)  1 JUN 2023 19:02
+This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.8.28) (format=lualatex 2022.10.3)  1 JUN 2023 19:06
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/home/thomas/Documents/GitHub/CV/cv_steimle.tex
@@ -96,55 +96,16 @@ Package: babel 2022/09/17 3.80 The Babel package
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(/home/thomas/.miktex/texmfs/install/tex/generic/babel-french/french.ldf
-Language: french 2023/01/02 v3.5p French support from the babel system
-
-
-Package babel Warning: No hyphenation patterns were preloaded for
-(babel)                the language 'French' into the format.
-(babel)                Please, configure your TeX system to add them and
-(babel)                rebuild the format. Now I will use the patterns
-(babel)                preloaded for \language=nohyphenation instead on input l
-ine 87.
-
-\FB@nonchar=\count192
-\FB@spacing=\attribute5
-\FB@addDPspace=\attribute6
-\FB@addGUILspace=\attribute7
-\FB@ucsNBSP=\attribute8
-\FB@dialect=\attribute9
-Package french.ldf Info: No need for active punctuation characters
-(french.ldf)             with this version of LuaTeX!
-(french.ldf)             reported on input line 249.
-\FBguill@level=\count193
-\FBold@everypar=\toks18
-\FB@Mht=\dimen139
-\mc@charclass=\count194
-\mc@charfam=\count195
-\mc@charslot=\count196
-\std@mcc=\count197
-\dec@mcc=\count198
-Inserting `frenchb.french_punctuation' at position 1 in `kerning'.
-\listindentFB=\dimen140
-\descindentFB=\dimen141
-\labelindentFB=\dimen142
-\labelwidthFB=\dimen143
-\leftmarginFB=\dimen144
-\parindentFFN=\dimen145
-\FBfnindent=\dimen146
+(/home/thomas/.miktex/texmfs/install/tex/latex/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: No hyphenation patterns were set for
-(babel)             language 'french'. Reported on input line 1945.
+(babel)             language 'english'. Reported on input line 191.
 ))
-(/home/thomas/.miktex/texmfs/install/tex/generic/babel/locale/fr/babel-french.t
-ex
-Package babel Info: Importing font and identification data for french
-(babel)             from babel-fr.ini. Reported on input line 11.
-) (/home/thomas/.miktex/texmfs/install/tex/latex/carlisle/scalefnt.sty)
-(/home/thomas/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks19
-)
-(/home/thomas/.miktex/texmfs/install/tex/latex/hyphenat/hyphenat.sty
+(/home/thomas/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-english.
+tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (/home/thomas/.miktex/texmfs/install/tex/latex/hyphenat/hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language2
 LaTeX Info: Redefining \_ on input line 43.
@@ -158,7 +119,7 @@ Package: expl3 2022-08-30 L3 programming layer (loader)
 
 (/home/thomas/.miktex/texmfs/install/tex/latex/l3backend/l3backend-luatex.def
 File: l3backend-luatex.def 2022-08-30 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count199
+\l__color_backend_stack_int=\count192
 \l__pdf_internal_box=\box51
 ))
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
@@ -178,7 +139,7 @@ Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX
 
 (/home/thomas/.miktex/texmfs/install/tex/luatex/ctablestack/ctablestack.sty
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count266
+\@catcodetablestackcnt=\count193
 )
 \CatcodeTableOther=\catcodetable14
 \CatcodeTableExpl=\catcodetable15
@@ -201,21 +162,21 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 
 (/home/thomas/.miktex/texmfs/install/tex/latex/tools/array.sty
 Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen147
+\col@sep=\dimen139
 \ar@mcellbox=\box52
-\extrarowheight=\dimen148
-\NC@list=\toks20
+\extrarowheight=\dimen140
+\NC@list=\toks18
 \extratabsurround=\skip49
 \backup@length=\skip50
 \ar@cellbox=\box53
 )
-\TX@col@width=\dimen149
-\TX@old@table=\dimen150
-\TX@old@col=\dimen151
-\TX@target=\dimen152
-\TX@delta=\dimen153
-\TX@cols=\count267
-\TX@ftn=\toks21
+\TX@col@width=\dimen141
+\TX@old@table=\dimen142
+\TX@old@col=\dimen143
+\TX@target=\dimen144
+\TX@delta=\dimen145
+\TX@cols=\count194
+\TX@ftn=\toks19
 )
 (/home/thomas/.miktex/texmfs/install/tex/latex/ltablex/ltablex.sty
 Package: ltablex 2014/08/13 v1.1 Modified tabularx
@@ -226,18 +187,18 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LTright=\skip52
 \LTpre=\skip53
 \LTpost=\skip54
-\LTchunksize=\count268
-\LTcapwidth=\dimen154
+\LTchunksize=\count195
+\LTcapwidth=\dimen146
 \LT@head=\box54
 \LT@firsthead=\box55
 \LT@foot=\box56
 \LT@lastfoot=\box57
 \LT@gbox=\box58
-\LT@cols=\count269
-\LT@rows=\count270
-\c@LT@tables=\count271
-\c@LT@chunks=\count272
-\LT@p@ftn=\toks22
+\LT@cols=\count196
+\LT@rows=\count197
+\c@LT@tables=\count198
+\c@LT@chunks=\count199
+\LT@p@ftn=\toks20
 ))
 (/home/thomas/.miktex/texmfs/install/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
@@ -245,14 +206,14 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 (/home/thomas/.miktex/texmfs/install/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks23
+\@envbody=\toks21
 )
 (/home/thomas/.miktex/texmfs/install/tex/latex/datetime/datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
 
 (/home/thomas/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count273
+\etb@tempcnta=\count266
 )
 (/home/thomas/.miktex/texmfs/install/tex/latex/fmtcount/fmtcount.sty
 Package: fmtcount 2020/01/30 v3.07
@@ -265,10 +226,11 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (/home/thomas/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex
 (/home/thomas/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks24
-\XKV@tempa@toks=\toks25
-)
-\XKV@depth=\count274
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+
+(/home/thomas/.miktex/texmfs/install/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count267
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/home/thomas/.miktex/texmfs/install/tex/latex/fmtcount/fcprefix.sty
@@ -276,57 +238,51 @@ Package: fcprefix 2012/09/28
 
 (/home/thomas/.miktex/texmfs/install/tex/latex/fmtcount/fcnumparser.sty
 Package: fcnumparser 2017/06/15
-\fc@digit@counter=\count275
+\fc@digit@counter=\count268
 ))
 (/home/thomas/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks26
-\ex@=\dimen155
+\@emptytoks=\toks24
+\ex@=\dimen147
 )
-\c@padzeroesN=\count276
-\fc@tmpcatcode=\count277
+\c@padzeroesN=\count269
+\fc@tmpcatcode=\count270
 
-(/home/thomas/.miktex/texmfs/install/tex/latex/fmtcount/fc-french.def
-File: fc-french.def 2020/02/24
+(/home/thomas/.miktex/texmfs/install/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2016/01/12
 )
-\@DT@modctr=\count278
-\@ordinalctr=\count279
-\@orgargctr=\count280
-\@strctr=\count281
-\@tmpstrctr=\count282
-\@DT@loopN=\count283
-\@DT@X=\count284
+\@DT@modctr=\count271
+\@ordinalctr=\count272
+\@orgargctr=\count273
+\@strctr=\count274
+\@tmpstrctr=\count275
+\@DT@loopN=\count276
+\@DT@X=\count277
 )
 (/home/thomas/.miktex/texmfs/install/tex/latex/datetime/datetime-defaults.sty
 Package: datetime-defaults 2013/09/10
 )
-\@day=\count285
-\@month=\count286
-\@year=\count287
-\c@HOUR=\count288
-\c@HOURXII=\count289
-\c@MINUTE=\count290
-\c@TOHOUR=\count291
-\c@TOMINUTE=\count292
-\c@SECOND=\count293
-\currenthour=\count294
-\currentminute=\count295
-\currentsecond=\count296
+\@day=\count278
+\@month=\count279
+\@year=\count280
+\c@HOUR=\count281
+\c@HOURXII=\count282
+\c@MINUTE=\count283
+\c@TOHOUR=\count284
+\c@TOMINUTE=\count285
+\c@SECOND=\count286
+\currenthour=\count287
+\currentminute=\count288
+\currentsecond=\count289
 Package datetime Info: No datetime.cfg file found, using default settings on in
 put line 308.
-
-(/home/thomas/.miktex/texmfs/install/tex/latex/datetime/dt-french.def
-File: dt-french.def 2013/09/10
-LaTeX Info: Redefining \datefrench on input line 91.
-)
-\@dtctr=\count297
-\dayofyear=\count298
-\dayofweek=\count299
+\@dtctr=\count290
+\dayofyear=\count291
+\dayofweek=\count292
 LaTeX Info: Redefining \today on input line 736.
-\dt@a=\toks27
-\dt@b=\toks28
-)
-(/home/thomas/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+\dt@a=\toks25
+\dt@b=\toks26
+) (/home/thomas/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/home/thomas/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
@@ -335,18 +291,18 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/home/thomas/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count300
-\Gm@cntv=\count301
-\c@Gm@tempcnt=\count302
-\Gm@bindingoffset=\dimen156
-\Gm@wd@mp=\dimen157
-\Gm@odd@mp=\dimen158
-\Gm@even@mp=\dimen159
-\Gm@layoutwidth=\dimen160
-\Gm@layoutheight=\dimen161
-\Gm@layouthoffset=\dimen162
-\Gm@layoutvoffset=\dimen163
-\Gm@dimlist=\toks29
+\Gm@cnth=\count293
+\Gm@cntv=\count294
+\c@Gm@tempcnt=\count295
+\Gm@bindingoffset=\dimen148
+\Gm@wd@mp=\dimen149
+\Gm@odd@mp=\dimen150
+\Gm@even@mp=\dimen151
+\Gm@layoutwidth=\dimen152
+\Gm@layoutheight=\dimen153
+\Gm@layouthoffset=\dimen154
+\Gm@layoutvoffset=\dimen155
+\Gm@dimlist=\toks27
 
 (/home/thomas/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
 (/home/thomas/.miktex/texmfs/install/tex/latex/lastpage/lastpage.sty
@@ -354,12 +310,13 @@ Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 )
 (/home/thomas/.miktex/texmfs/install/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks28
 \labelindent=\skip55
-\enit@outerparindent=\dimen164
-\enit@toks=\toks30
+\enit@outerparindent=\dimen156
+\enit@toks=\toks29
 \enit@inbox=\box59
-\enit@count@id=\count303
-\enitdp@description=\count304
+\enit@count@id=\count296
+\enitdp@description=\count297
 )
 (/home/thomas/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
@@ -393,20 +350,20 @@ Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
 (/home/thomas/.miktex/texmfs/install/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count305
-\l__fontspec_language_int=\count306
-\l__fontspec_strnum_int=\count307
-\l__fontspec_tmp_int=\count308
-\l__fontspec_tmpa_int=\count309
-\l__fontspec_tmpb_int=\count310
-\l__fontspec_tmpc_int=\count311
-\l__fontspec_em_int=\count312
-\l__fontspec_emdef_int=\count313
-\l__fontspec_strong_int=\count314
-\l__fontspec_strongdef_int=\count315
-\l__fontspec_tmpa_dim=\dimen165
-\l__fontspec_tmpb_dim=\dimen166
-\l__fontspec_tmpc_dim=\dimen167
+\l__fontspec_script_int=\count298
+\l__fontspec_language_int=\count299
+\l__fontspec_strnum_int=\count300
+\l__fontspec_tmp_int=\count301
+\l__fontspec_tmpa_int=\count302
+\l__fontspec_tmpb_int=\count303
+\l__fontspec_tmpc_int=\count304
+\l__fontspec_em_int=\count305
+\l__fontspec_emdef_int=\count306
+\l__fontspec_strong_int=\count307
+\l__fontspec_strongdef_int=\count308
+\l__fontspec_tmpa_dim=\dimen157
+\l__fontspec_tmpb_dim=\dimen158
+\l__fontspec_tmpc_dim=\dimen159
 
 (/home/thomas/.miktex/texmfs/install/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -474,12 +431,12 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box60
 \beforetitleunit=\skip56
 \aftertitleunit=\skip57
-\ttl@plus=\dimen168
-\ttl@minus=\dimen169
-\ttl@toksa=\toks31
-\titlewidth=\dimen170
-\titlewidthlast=\dimen171
-\titlewidthfirst=\dimen172
+\ttl@plus=\dimen160
+\ttl@minus=\dimen161
+\ttl@toksa=\toks30
+\titlewidth=\dimen162
+\titlewidthlast=\dimen163
+\titlewidthfirst=\dimen164
 )
 (/home/thomas/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
@@ -510,7 +467,7 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks32
+\pdftexcmds@toks=\toks31
 )
 (/home/thomas/.miktex/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
@@ -541,11 +498,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (/home/thomas/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count316
+\c@section@level=\count309
 )
-\@linkdim=\dimen173
-\Hy@linkcounter=\count317
-\Hy@pagecounter=\count318
+\@linkdim=\dimen165
+\Hy@linkcounter=\count310
+\Hy@pagecounter=\count311
 
 (/home/thomas/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
@@ -556,7 +513,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/home/thomas/.miktex/texmfs/install/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count319
+\Hy@SavedSpaceFactor=\count312
 
 (/home/thomas/.miktex/texmfs/install/tex/latex/hyperref/puenc.def
 File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
@@ -568,17 +525,17 @@ Package hyperref Info: Hyper index ON on input line 4170.
 Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-\stockwidth=\dimen174
-\stockheight=\dimen175
+\stockwidth=\dimen166
+\stockheight=\dimen167
 Package hyperref Info: Bookmarks ON on input line 4410.
-\c@Hy@tempcnt=\count320
+\c@Hy@tempcnt=\count313
 
 (/home/thomas/.miktex/texmfs/install/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4748.
-\XeTeXLinkMargin=\dimen176
+\XeTeXLinkMargin=\dimen168
 
 (/home/thomas/.miktex/texmfs/install/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -587,9 +544,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count321
-\Field@Width=\dimen177
-\Fld@charsize=\dimen178
+\Fld@menulength=\count314
+\Field@Width=\dimen169
+\Fld@charsize=\dimen170
 Package hyperref Info: Hyper figures OFF on input line 6027.
 Package hyperref Info: Link nesting OFF on input line 6032.
 Package hyperref Info: Hyper index ON on input line 6035.
@@ -602,9 +559,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6057.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count322
-\c@Item=\count323
-\c@Hfootnote=\count324
+\Hy@abspage=\count315
+\c@Item=\count316
+\c@Hfootnote=\count317
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 
@@ -620,8 +577,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count325
-\c@bookmark@seq@number=\count326
+\Fld@listcount=\count318
+\c@bookmark@seq@number=\count319
 
 (/home/thomas/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.st
 y
@@ -637,7 +594,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip67
 ) (./cv_steimle.aux
 Package babel Info: No hyphenation patterns were set for
-(babel)             language 'french'. Reported on input line 33.
+(babel)             language 'english'. Reported on input line 33.
 )
 \openout1 = cv_steimle.aux
 
@@ -668,14 +625,7 @@ LaTeX Font Info:    ... okay on input line 172.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 172.
 LaTeX Font Info:    ... okay on input line 172.
 Package babel Info: No hyphenation patterns were set for
-(babel)             language 'french'. Reported on input line 172.
-Package french.ldf Info: Setting StandardItemizeEnv=true for
-(french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 172.
-Package french.ldf Info: Setting StandardEnumerateEnv=true for
-(french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 172.
-LaTeX Info: Redefining \up on input line 172.
+(babel)             language 'english'. Reported on input line 172.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -716,17 +666,17 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             ! on input line 172.
 (/home/thomas/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count327
-\scratchdimen=\dimen179
+\scratchcounter=\count320
+\scratchdimen=\dimen171
 \scratchbox=\box61
-\nofMPsegments=\count328
-\nofMParguments=\count329
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count330
-\MPscratchDim=\dimen180
-\MPnumerator=\count331
-\makeMPintoPDFobject=\count332
-\everyMPtoPDFconversion=\toks34
+\nofMPsegments=\count321
+\nofMParguments=\count322
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count323
+\MPscratchDim=\dimen172
+\MPnumerator=\count324
+\makeMPintoPDFobject=\count325
+\everyMPtoPDFconversion=\toks33
 )
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
@@ -797,33 +747,32 @@ Overfull \hbox (2.21999pt too wide) in paragraph at lines 182--193
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 226--226
+Underfull \hbox (badness 1231) in paragraph at lines 226--226
 []|\TU/lmr/bx/n/10 PhD in Biosciences and Bioinformatics\TU/lmr/m/n/10 , TAGC In
 serm U1090 (Marseille), ``Normal and
  []
 
 (/home/thomas/.miktex/texmfs/install/tex/latex/academicons/tuacademicons.fd)
-Underfull \hbox (badness 1817) in paragraph at lines 308--308
+Underfull \hbox (badness 1281) in paragraph at lines 308--308
 \TU/lmr/m/n/10 Arnoux, Virginie Gandemer, Marie Balsat, Norbert Vey, Elizabeth 
 Macintyre, Norbert Ifrah,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--308
-[]|\TU/lmr/m/n/10 Nabih Maslah, Mehdi Latiri, Vahid Asnafi, Mélanie Féroul, Na
-wel Bedjaoui, \TU/lmr/bx/n/10 Thomas
+Underfull \hbox (badness 5388) in paragraph at lines 308--308
+\TU/lmr/m/n/10 Emmanuelle Six, Els Verhoyen, Elizabeth Macintyre, Chantal Lagres
+le-Peyrou, Guillaume
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--308
-\TU/lmr/bx/n/10 Steimlé\TU/lmr/m/n/10 , Emmanuelle Six, Els Verhoyen, Elizabeth
- Macintyre, Chantal Lagresle-Peyrou,
+Underfull \hbox (badness 5475) in paragraph at lines 308--308
+\TU/lmr/m/n/10 P. Andrieu. Adenylate kinase 2 expression and addiction in T-ALL \TU/lmr/m/it/10 Blood Advances\TU/lmr/m/n/10 .
  []
 
 [1
 
 {/home/thomas/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 353--353
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 []\TU/lmr/m/n/10 Longreads sequencing, implementation, development and
  []
 
@@ -831,20 +780,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 353--353
 AED: lastpage setting LastPage
 [2] (./cv_steimle.aux
 Package babel Info: No hyphenation patterns were set for
-(babel)             language 'french'. Reported on input line 33.
+(babel)             language 'english'. Reported on input line 33.
 )
 Package rerunfilecheck Info: File `cv_steimle.out' has not changed.
 (rerunfilecheck)             Checksum: 874E038B970E574D1007E74E39609FA0;957.
 )
 
 Here is how much of LuaTeX's memory you used:
- 19977 strings out of 477370
- 125003,953878 words of node,token memory allocated
- 947 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 20 glue, 3 kern, 1 penalty, 2 glyph, 160 attribute,
- 58 glue_spec, 24 attribute_list, 2 write nodes
-   avail lists: 2:3860,3:595,4:97,5:706,6:133,7:11464,8:56,9:960,10:15,11:81
- 40397 multiletter control sequences out of 65536+600000
+ 19177 strings out of 477370
+ 125007,953878 words of node,token memory allocated
+ 469 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 8 attribute, 58 glue_spec,
+ 5 attribute_list, 2 write nodes
+   avail lists: 1:1,2:1486,3:571,4:97,5:709,6:133,7:11458,8:56,9:960,10:15,11:81
+
+ 39612 multiletter control sequences out of 65536+600000
  45 fonts using 6882303 bytes
  72i,12n,87p,1082b,1119s stack positions out of 10000i,1000n,20000p,200000b,80000s
 </home/thomas/.miktex/texmfs/install/fonts/opentype/public/fontawesome5/FontAwes
@@ -857,7 +807,7 @@ nts/opentype/public/lm/lmroman12-regular.otf></home/thomas/.miktex/texmfs/instal
 l/fonts/opentype/public/lm/lmroman10-regular.otf></home/thomas/.miktex/texmfs/in
 stall/fonts/opentype/public/lm/lmroman17-regular.otf></home/thomas/.miktex/texmf
 s/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on cv_steimle.pdf (2 pages, 71953 bytes).
+Output written on cv_steimle.pdf (2 pages, 71942 bytes).
 
 PDF statistics: 138 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 131072)
