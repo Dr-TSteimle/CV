@@ -4,6 +4,7 @@
 %
 % Uses tabularx to create two column entries (date and job/edu/citation).
 % Defines commands to make adding entries simpler.
+% lualatex -interaction=nonstopmode cv_steimle.tex
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -252,7 +253,7 @@
 \begin{EntriesTable}
   \Duration{2022}{\Ongoing}  &
   \textbf{PhD position for medical residents and junior doctors}, Fondation pour la Recherche Médicale (FRM) for
-  \textit{``Integrative genomics to unravel meaningful and targetable regulatory pathways for personalized treatment of t-cell acute lymphoblastic leukemia.''}
+  \textit{``Integrative genomics to unravel meaningful and targetable regulatory pathways for personalized treatment of T-cell acute lymphoblastic leukemia.''}
 \end{EntriesTable}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -284,27 +285,45 @@
 % \section{Publication Highlights}
 
 \begin{EntriesTable}
-\Year{2022}  &
-  \Me, Marie-Emilie Dourthe, Marion Alcantara, Aurore Touzart, Mathieu Simonin, Johanna Mondesir, Jonathan Bond, 
-  Carlos Graux, Nathalie Grardel, Jean-Michel Cayuela, Isabelle Arnoux, Virginie Gandemer, Marie Balsat, 
-  Norbert Vey, Elizabeth Macintyre, Norbert Ifrah, Hervé Dombret, Arnaud Petit, André Baruchel, 
-  Philippe Ruminy, Nicolas Boissel \& Vahid Asnafi.
-  Clinico-biological features of T-cell acute lymphoblastic leukemia with fusion proteins
-  \emph{Blood Cancer Journal}.
-  \DOI{10.1038/s41408-022-00613-9}{ }\OA
-  \\
-\Year{2022}  &
-  Estelle Balducci, Sophie Kaltenbach, Patrick Villarese, Eugénie Duroyon, Loria Zalmai, Chloé Friedrich, Felipe Suarez, Ambroise Marcais, Didier Bouscary, Justine Decroocq, Rudy Birsen, Michaëla Fontenay, Marie Templé, Chantal Brouzes, Aurore Touzart, \Me, Agata Cieslak, Ludovic Lhermitte, Carole Almire, Nicolas Chapuis, Olivier Hermine, Vahid Asnafi, Olivier Kosmider \& Lucile Couronné.
-  Pooch: A friend to fetch your data files.
-  \emph{Blood Cancer Journal}.
-  \DOI{10.1038/s41408-022-00718-1}{ }\OA
-  \\
-\Year{2021}  &
-  Nabih Maslah, Mehdi Latiri, Vahid Asnafi, Mélanie Féroul, Nawel Bedjaoui, \Me, Emmanuelle Six, Els Verhoyen, Elizabeth Macintyre, Chantal Lagresle-Peyrou, Guillaume P. Andrieu.
-  Adenylate kinase 2 expression and addiction in T-ALL
-  \emph{Blood Advances}.
-  \DOI{10.1182/bloodadvances.2020002700}{ }\OA
-  \\
+	\Year{2025} &
+	Charlotte Smith, Guillaume Charbonnier, Mathieu Simonin, Estelle Balducci, \Me, Guillaume P Andrieu, Agata Cieslak, Marianne Courgeon, Marc LeLorc'h, Anand Mayakonda, Christoph Plass, Aurélie Le Nezet, Mehdi Latiri, Norbert Ifrah, Hervé Dombret, Françoise Huguet, André Baruchel, Elizabeth Macintyre, Arnaud Petit, Nicolas Boissel, Vahid Asnafi, Aurore Touzart.
+	Towards methylation-based redefinition of TAL1 positive T-cell acute lymphoblastic leukaemia (T-ALL)
+	\emph{Leukemia}
+	\DOI{10.1038/s41375-025-02714-3}
+	\\
+	\Year{2024} &
+	Estelle Balducci, Mathieu Simonin, Nicolas Duployez, \Me, Marie-Emilie Dourthe, Patrick Villarese, Stéphane Ducassou, Isabelle Arnoux, Jean-Michel Cayuela, Marie Balsat, Lucien Courtois, Guillaume Andrieu, Aurore Touzart, Françoise Huguet, Arnaud Petit, Norbert Ifrah, Hervé Dombret, André Baruchel, Elizabeth Macintyre, Claude Preudhomme, Nicolas Boissel, Vahid Asnafi.
+	Genomic imbalance analysis provides new insight into prognostic factors in adult and pediatric T-ALL.
+	\emph{Blood}
+	\DOI{10.1182/blood.2023022154}{ }\OA
+	\\
+	\Year{2023} &
+	\Me, Estelle Balducci, , Charlotte Smith, Patrick Villarese, Mélanie Feroul, Dominique Payet-Bornet, Sophie Kaltenbach, Lucile Couronné, Ludovic Lhermitte, Aurore Touzart, Marie-Emilie Dourthe, Mathieu Simonin, André Baruchel, Hervé Dombret, Norbert Ifrah, Nicolas Boissel, Bertrand Nadel, Elizabeth Macintyre, Agata Cieslak, \& Vahid Asnafi.
+	TREC mediated oncogenesis in human immature T lymphoid malignancies preferentially involves ZFP36L2
+	\emph{Molecular Cancer}.
+	\DOI{10.1186/s12943-023-01794-y}{ }\OA
+	\\
+	\Year{2022}  &
+	\Me, Marie-Emilie Dourthe, Marion Alcantara, Aurore Touzart, Mathieu Simonin, Johanna Mondesir, Jonathan Bond, 
+	Carlos Graux, Nathalie Grardel, Jean-Michel Cayuela, Isabelle Arnoux, Virginie Gandemer, Marie Balsat, 
+	Norbert Vey, Elizabeth Macintyre, Norbert Ifrah, Hervé Dombret, Arnaud Petit, André Baruchel, 
+	Philippe Ruminy, Nicolas Boissel \& Vahid Asnafi.
+	Clinico-biological features of T-cell acute lymphoblastic leukemia with fusion proteins
+	\emph{Blood Cancer Journal}.
+	\DOI{10.1038/s41408-022-00613-9}{ }\OA
+	\\
+	\Year{2022}  &
+	Estelle Balducci, Sophie Kaltenbach, Patrick Villarese, Eugénie Duroyon, Loria Zalmai, Chloé Friedrich, Felipe Suarez, Ambroise Marcais, Didier Bouscary, Justine Decroocq, Rudy Birsen, Michaëla Fontenay, Marie Templé, Chantal Brouzes, Aurore Touzart, \Me, Agata Cieslak, Ludovic Lhermitte, Carole Almire, Nicolas Chapuis, Olivier Hermine, Vahid Asnafi, Olivier Kosmider \& Lucile Couronné.
+	Optical genome mapping refines cytogenetic diagnostics, prognostic stratification and provides new molecular insights in adult MDS/AML patients
+	\emph{Blood Cancer Journal}.
+	\DOI{10.1038/s41408-022-00718-1}{ }\OA
+	\\
+	\Year{2021}  &
+	Nabih Maslah, Mehdi Latiri, Vahid Asnafi, Mélanie Féroul, Nawel Bedjaoui, \Me, Emmanuelle Six, Els Verhoyen, Elizabeth Macintyre, Chantal Lagresle-Peyrou, Guillaume P. Andrieu.
+	Adenylate kinase 2 expression and addiction in T-ALL
+	\emph{Blood Advances}.
+	\DOI{10.1182/bloodadvances.2020002700}{ }\OA
+	\\
 \end{EntriesTable}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
